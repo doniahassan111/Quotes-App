@@ -1,0 +1,17 @@
+h1{
+    font-size: 4rem;
+    font-family: Impact;
+}
+button:hover{
+    background-color: green !important;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+p{
+    font-size: 25px;
+}
+
